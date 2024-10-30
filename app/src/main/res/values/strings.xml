@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bai2</string>
+    <string-array name="lists_name">
+        <item>Cuong</item>
+    </string-array>
+    <string-array name="lists_mssv">
+        <item>20215004</item>
+    </string-array>
+</resources>
